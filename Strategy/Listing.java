@@ -49,7 +49,7 @@ public class Listing {
      * @param sortBehavior InsertionSort or BubbleSort
      */
     public void setSortBehavior(SortBehavior sortBehavior) {
-      sortBehavior = this.sortBehavior;
+      this.sortBehavior = sortBehavior;
     }
 
     /**
