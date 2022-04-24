@@ -1,5 +1,6 @@
 /**
  * Class for non-standard old style songs
+ * @author Chris Moore
  */
 public class Oldie implements Tune {
   private String artistName;

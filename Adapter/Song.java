@@ -1,5 +1,6 @@
 /**
  * Abstract class for different types of songs
+ * @author Chris Moore
  */
 public abstract class Song {
   /**
